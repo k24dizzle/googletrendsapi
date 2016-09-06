@@ -12,40 +12,35 @@ import os
 def get_list(el):
     return [e.text for e in el]
 
-driver = webdriver.Firefox()
-def get_csv_from_dict(data):
-    temp = ''
-    for key, value in top_data.items():
-        temp += '%s,%s\n' %(key, value)
-    return temp
+def format_csv(data):
+    lines = (','.join(pair) for pair in data)
+    return '\n'.join(lines) + '\n'
 
 # path to folder with out trailing slash would be next
 def save_csv(folder, trend_name, data):
     folder += '/'
     path_top = folder + 'top/'
     path_ris = folder + 'rising/'
-    file_name_top = folder + trend_name + "_top.csv"
-    file_name_rising = folder + trend_name + '_rising.csv'
-    
-    top_data = data['top']
-    top_lines = (','.join(pair) for pair in top_data)
-    top_csv = '\n'.join(top_lines) + '\n'
-    
+    file_name_top = path_top + trend_name + "_top.csv"
+    file_name_rising = path_ris + trend_name + '_rising.csv'
+
+    # making some folders STOCK --> TOP, RISING
     if not os.path.exists(folder):
         os.makedirs(folder)
         if not os.path.exists(path_top):
             os.makedirs(path_top)
         if not os.path.exists(path_ris):
             os.makedirs(path_ris)
-    with open(file_name_top, mode='w') as f:
-        f.write(top_csv)
-
-    # 2004 might not have rising data
     try:
-        rising_data = data['rising']
-        rising_lines = (','.join(pair) for pair in rising_data)
-        rising_csv = '\n'.join(rising_lines) + '\n'
+        top_csv = format_csv(data['top'])
 
+        with open(file_name_top, mode='w') as f:
+            f.write(top_csv)
+    except KeyError:
+        print('No Top Data for %s' % (trend_name))
+    # might not have rising data
+    try:
+        rising_csv = format_csv(data['rising'])
         with open(file_name_rising, mode='w') as f:
             f.write(rising_csv)
 
@@ -61,22 +56,19 @@ def get_stuff(url):
     data = {}
     try:
         WebDriverWait(driver, 5).until(EC.presence_of_element_located((By.CLASS_NAME, "fe-atoms-generic-content-container")))
-
     except TimeoutException:
         print "Loading took too much time!"
+        return {'top': ('', '')}
 
     time.sleep(3)
     # 0th element will be related topics
     related_queries = driver.find_elements_by_class_name('fe-related-queries')[1]
-    texts_rising = related_queries.find_elements_by_class_name("label-text") 
-    
+    texts_rising = related_queries.find_elements_by_class_name("label-text")
     try:
         current = related_queries.find_element_by_class_name('_md-text')
     except:
-        print 'No Data at all for url'
         # happens when there is no TOP or RISING data for a stock ticker
-        return {'top': ('', '')}
-    
+        return {}
     rising_txt = get_list(texts_rising)
     if current.text == 'Top':
         values_top = related_queries.find_elements_by_class_name('progress-value')
@@ -113,7 +105,7 @@ def get_stuff(url):
     return data
 
 
-        #class = rising-value
+driver = webdriver.Firefox()
 stocks = ['AAPL', 'ABBV', 'ABI', 'ABK', 'ABT']
 for stock in stocks:
     for i in xrange(2004, 2014):
