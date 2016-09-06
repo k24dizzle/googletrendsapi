@@ -50,7 +50,7 @@ def save_csv(folder, trend_name, data):
 def get_stuff(url):
     driver.get(url)
     time.sleep(3)
-
+    # scrolling down so the bottom data will load
     driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
     time.sleep(3)
     data = {}
@@ -106,10 +106,11 @@ def get_stuff(url):
 
 
 driver = webdriver.Firefox()
+path = 'Stock_Data/'
 stocks = ['AAPL', 'ABBV', 'ABI', 'ABK', 'ABT']
 for stock in stocks:
     for i in xrange(2004, 2014):
         year = i
         go_to = 'https://www.google.com/trends/explore?date={0}-01-01%20{0}-12-31&geo=US&q={1}'.format(year, stock)
         print ("Accessing " + go_to)
-        save_csv(stock, '%s_%s' % (stock, i), get_stuff(go_to))
+        save_csv(path + stock, '%s_%s' % (stock, i), get_stuff(go_to))
