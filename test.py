@@ -7,6 +7,7 @@ from bs4 import BeautifulSoup
 import time
 import csv
 import os
+import random
 
 def get_list(el):
     return [e.text for e in el]
@@ -49,9 +50,16 @@ def save_csv(folder, trend_name, data):
     except KeyError:
         print('No Rising Data for %s' % (trend_name))
 
-def get_related_queries(exist):
+def get_related_queries(exist, url):
     # will loop until the related queries actually loads in hopefully
     while True:
+        error = driver.find_elements_by_class_name('error-title')
+        if len(error) > 0:
+            print 'haters gonna hate'
+            wait = random.randint(60, 62)
+            time.sleep(wait)
+            print wait
+            driver.get(url)
         driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
         els = driver.find_elements_by_class_name(exist)
         for el in els:
@@ -61,6 +69,7 @@ def get_related_queries(exist):
                 return el
 
 def get_stuff(url):
+    driver.get(url)
     driver.get(url)
     # scrolling down so the bottom data will load
     data = {}
@@ -74,7 +83,7 @@ def get_stuff(url):
 
     # 0th element will be related topics
     # sketchy...
-    related_queries = get_related_queries('fe-related-queries')
+    related_queries = get_related_queries('fe-related-queries', url)
     texts_rising = related_queries.find_elements_by_class_name("label-text")
     try:
         current = related_queries.find_element_by_class_name('_md-text')

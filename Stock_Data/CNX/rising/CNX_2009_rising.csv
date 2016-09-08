@@ -1,0 +1,4 @@
+cnx dongle,Breakout
+cnx nano 2,Breakout
+cnx nano,+500%
+cnx files,+150%

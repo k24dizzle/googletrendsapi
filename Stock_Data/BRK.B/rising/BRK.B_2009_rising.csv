@@ -1,0 +1,5 @@
+brk.b split,+850%
+brk.b stock price,+180%
+wfc,+90%
+dow jones yahoo,+50%
+brk.b stock,+50%

@@ -1,0 +1,5 @@
+brk.b split,+100%
+brk.b stock price,+100%
+bp,+80%
+brk.b stock,+70%
+brk,+40%

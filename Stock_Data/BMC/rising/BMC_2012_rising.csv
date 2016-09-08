@@ -1,0 +1,21 @@
+bmc tmr01,Breakout
+bmc granfondo,Breakout
+bmc footprints,+1,750%
+bmc numara,+1,300%
+bmc tm02,+650%
+network health,+190%
+bmc tm01,+170%
+bmc geriatrics,+160%
+bmc harrington,+110%
+bmc student login,+90%
+bmc healthnet plan,+90%
+commonwealth care,+90%
+bmc millwork,+80%
+bmc student portal,+80%
+bmc boats,+70%
+bmc bakersfield,+70%
+bmc journals,+60%
+bmc pittsfield ma,+50%
+bmc san antonio,+50%
+focus bikes,+50%
+competitive cyclist,+40%

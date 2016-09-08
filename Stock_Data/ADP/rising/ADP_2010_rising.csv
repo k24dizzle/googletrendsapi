@@ -1,0 +1,24 @@
+run adp login,+450%
+adp payroll login,+200%
+adp w2 login,+200%
+adp portal ipay,+190%
+run payroll adp,+160%
+adp run,+150%
+adpi,+150%
+portal adp,+120%
+portal,+110%
+adp retirement login,+100%
+adp workforce now,+100%
+adp roissy,+90%
+adp portal login,+70%
+adp self portal,+70%
+adp porta,+70%
+adp total paycard,+70%
+adp associate portal,+70%
+adp ezlabor login,+70%
+adp timesaver,+60%
+adp login client,+60%
+adp ipa,+60%
+self service adp,+50%
+adp paycard,+50%
+adp payroll workcenter,+50%
