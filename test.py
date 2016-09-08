@@ -99,7 +99,7 @@ def get_stuff(url):
     nav = related_queries.find_element_by_class_name('bullets-view-selector')
     nav.click()
     # there are 5 dropdown menus on the page, the last one will be for related queries (sketchy?)
-    menu = driver.find_elements_by_class_name('_md-select-menu-container')[4]
+    menu = driver.find_elements_by_class_name('_md-select-menu-container')[-1]
     # click on top
     top = menu.find_elements_by_tag_name('md-option')[1]
     top.click()
