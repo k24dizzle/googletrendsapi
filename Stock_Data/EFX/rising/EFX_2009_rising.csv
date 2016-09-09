@@ -1,0 +1,6 @@
+efx bracelet,Breakout
+phantom efx register,Breakout
+autotune,+1,100%
+autotune efx,+550%
+efx smackboard,+90%
+precor efx 576i,+50%
