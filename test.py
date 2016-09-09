@@ -107,6 +107,7 @@ def get_stuff(url):
 
     nav = related_queries.find_element_by_class_name('bullets-view-selector')
     nav.click()
+    time.sleep(0.4)
     # there are 5 dropdown menus on the page, the last one will be for related queries (sketchy?)
     menu = driver.find_elements_by_class_name('_md-select-menu-container')[-1]
     # click on top
@@ -133,6 +134,9 @@ txt = open('stocks.txt')
 stocks = txt.read().split('\n')
 for stock in stocks:
     for i in xrange(2004, 2014):
+	wait = random.randint(13, 34)
+	print wait
+	time.sleep(wait/10.0)
         year = i
         go_to = 'https://www.google.com/trends/explore?date={0}-01-01%20{0}-12-31&geo=US&q={1}'.format(year, stock)
         print (go_to)
