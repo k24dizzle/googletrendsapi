@@ -1,0 +1,22 @@
+bustin eq,Breakout
+music volume eq,+2,400%
+eq resource,+550%
+toyota eq,+300%
+eq resources,+250%
+eq industrial services,+150%
+eq new york,+130%
+eq daily,+120%
+clarion eq,+100%
+audyssey dynamic eq,+90%
+iphone eq,+80%
+grip eq,+70%
+eq cleric spells,+70%
+eq app,+60%
+eq magelo,+60%
+telescopes,+60%
+magelo,+60%
+eq mapfiend,+50%
+eq wizard spells,+50%
+p99 eq,+50%
+eq alla,+40%
+linear phase eq,+40%

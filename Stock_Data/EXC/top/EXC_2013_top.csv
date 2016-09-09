@@ -1,0 +1,25 @@
+ktm exc,100
+ktm,100
+500 exc,25
+ktm 500 exc,25
+ktm 450 exc,25
+ktm 300 exc,15
+ktm 525 exc,10
+ktm 250 exc,10
+exc stock,10
+ktm 350 exc,10
+ktm 200 exc,5
+ktm 530 exc,5
+ktm 400 exc,5
+ktm parts,5
+exc dividend,5
+ktm motorcycles,5
+ktm 350 exc-f,0
+ktm usa,0
+exc quote,0
+exc stock price,0
+aapl,0
+fe,0
+cycle trader,0
+bp,0
+mt,0

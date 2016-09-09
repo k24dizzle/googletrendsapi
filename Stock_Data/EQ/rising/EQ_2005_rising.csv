@@ -1,0 +1,11 @@
+eq life,+800%
+eq resource recovery,+250%
+eq players,+170%
+eq settings,+140%
+home eq servicing,+120%
+eq mapfiend,+100%
+eq 2 maps,+90%
+eq rankings,+90%
+parametric eq,+80%
+home eq,+80%
+eq test,+60%
