@@ -144,3 +144,4 @@ for stock in stocks:
         while temp:
             temp = save_csv(path + stock, '%s_%s' % (stock, i), get_stuff(go_to))
 
+

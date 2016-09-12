@@ -1,0 +1,16 @@
+oxy ir,Breakout
+helena ir,Breakout
+ir led,+200%
+ir extender,+110%
+ir spectroscopy,+90%
+ir spectra,+90%
+ir blaster,+80%
+ir camera,+70%
+ir spectrum,+70%
+ir repeater,+70%
+ir emitter,+70%
+ir remote extender,+60%
+ir receiver,+60%
+ir remote,+50%
+ir filter,+50%
+ir cameras,+40%

@@ -1,0 +1,11 @@
+ir vids,Breakout
+unh,+4,450%
+ir shell,+1,500%
+ir rumor mill,+250%
+ir remote extender,+60%
+track ir,+60%
+lirc,+50%
+ir extender,+50%
+ir thermometer,+50%
+ir cameras,+40%
+usb ir receiver,+40%

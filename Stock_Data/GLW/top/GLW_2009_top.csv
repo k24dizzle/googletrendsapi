@@ -1,0 +1,9 @@
+glw stock,100
+ge,50
+glw quote,35
+glw stock quote,20
+glw stock price,20
+aapl,20
+ge stock,15
+alu,5
+glw broadband,5

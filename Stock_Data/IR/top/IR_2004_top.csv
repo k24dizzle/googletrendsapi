@@ -1,0 +1,21 @@
+ir remote,100
+ir remote control,40
+ir port,35
+ir spectrum,35
+ir blaster,30
+ir spectra,30
+ir spectroscopy,25
+ir camera,25
+ir receiver,25
+ir filter,15
+ir keyboard,15
+ir extender,15
+ir repeater,15
+ir led,10
+ir emitter,10
+ir remote extender,5
+track ir,5
+ir cameras,5
+oxy ir,5
+ir photography,5
+helena ir,0
