@@ -1,0 +1,17 @@
+mdt lss,Breakout
+mdt lss chassis,Breakout
+mdt 2013 download,Breakout
+mdt bus tracker,Breakout
+ew stock price,+2,550%
+mdt 2013,+1,850%
+mdt tac 21,+400%
+mdt tac21,+300%
+mdt tracker,+300%
+mdt road conditions,+140%
+mdt bus,+120%
+mdt transit,+110%
+mdt agency,+100%
+mdt stock,+60%
+mdt stock price,+50%
+aapl,+50%
+frontier airlines,+40%
