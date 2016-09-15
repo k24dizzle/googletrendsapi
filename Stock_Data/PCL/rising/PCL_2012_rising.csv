@@ -1,0 +1,16 @@
+pcl reserve room,+250%
+pcl industrial construction,+200%
+cpl,+110%
+acl and pcl,+90%
+acl injury,+90%
+pcl monmouth,+80%
+pcl tear symptoms,+70%
+pcl injury symptoms,+70%
+pcl injury,+70%
+pcl sprain,+60%
+acl mcl pcl,+50%
+pcl surgery,+50%
+pcl standings,+50%
+pcl tear,+50%
+mcl,+50%
+pcl industrial,+40%

@@ -1,0 +1,17 @@
+sti pd,Breakout
+port city pd,+250%
+pd 156,+250%
+seattle pd,+130%
+hpd,+110%
+costa mesa pd,+110%
+dallas pd,+100%
+santa ana pd,+90%
+fort worth pd,+90%
+denver pd,+80%
+elk grove pd,+80%
+long beach pd,+70%
+oakland pd,+70%
+baltimore pd,+60%
+boston pd,+60%
+chicago pd,+50%
+las vegas pd,+40%
