@@ -1,0 +1,13 @@
+hr express rrd,100
+hr express,95
+hr xpress rrd,95
+rr donnelley,75
+rrd stock,55
+inside rrd,40
+rrd venue,30
+rrd jobs,30
+rrd interactive,30
+rrd examiner,20
+inside rrd net,15
+rrd tube,15
+rrd partners,10

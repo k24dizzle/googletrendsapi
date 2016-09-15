@@ -1,0 +1,4 @@
+ssl sni,+90%
+sni scholastic,+70%
+sni financial,+50%
+sni technology,+50%

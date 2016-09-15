@@ -1,0 +1,6 @@
+harta bucuresti,Breakout
+fit str 1,+200%
+str global,+130%
+str holdings,+100%
+str trek,+80%
+wall str,+60%

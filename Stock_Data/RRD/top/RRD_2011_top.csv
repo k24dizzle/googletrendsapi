@@ -1,0 +1,8 @@
+rrd hr express,100
+hr express,100
+rr donnelley,70
+rrdtool,70
+inside rrd,30
+rrd venue,20
+rrd stock,20
+rrd partners,15
