@@ -8,8 +8,8 @@ def get_rid_of_commas(data):
     other_temp = ''
     for i in xrange(0, len(data) - 1):
         other_temp += data[i]
-        data[0] = other_temp
-        data = [data[0], data[-1]]
+    data[0] = other_temp
+    data = [data[0], data[-1]]
     return data
 
 with open('New_Data/Top_Data.csv', "w") as outfile:
@@ -59,4 +59,4 @@ with open('New_Data/Rising_Data.csv', "w") as outfile:
                             outfile.write(",%s" % (stock))
                             outfile.write('\n')
             except IOError:
-                a =  "%s not found" % (get)
+                print "%s not found" % (get)

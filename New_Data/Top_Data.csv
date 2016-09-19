@@ -18569,7 +18569,7 @@ Year,Top_Search,Score,Ticker
 2006,ponce de leon,20,DE
 2006,diccionario,15,DE
 2006,de soto,15,DE
-2006,wilmington15,15,DE
+2006,wilmington de,15,DE
 2006,fleur de lis,15,DE
 2006,fogo de chao,15,DE
 2006,giada de laurentiis,15,DE
@@ -23596,7 +23596,7 @@ Year,Top_Search,Score,Ticker
 2005,el ladies,5,EL
 2005,el camino real,5,EL
 2005,el chat,5,EL
-2005,el paso5,5,EL
+2005,el paso tx,5,EL
 2006,el paso,100,EL
 2006,el salvador,35,EL
 2006,el dorado,35,EL
@@ -23616,7 +23616,7 @@ Year,Top_Search,Score,Ticker
 2006,el centro,10,EL
 2006,el monte,10,EL
 2006,el nino,10,EL
-2006,el paso10,10,EL
+2006,el paso tx,10,EL
 2006,el sol,5,EL
 2006,el capitan,5,EL
 2006,el pais,5,EL
@@ -23644,7 +23644,7 @@ Year,Top_Search,Score,Ticker
 2007,el centro,10,EL
 2007,el pais,10,EL
 2007,el rey,10,EL
-2007,el paso10,10,EL
+2007,el paso tx,10,EL
 2007,el capitan,5,EL
 2007,el nino,5,EL
 2008,el paso,100,EL
@@ -36456,9 +36456,9 @@ Year,Top_Search,Score,Ticker
 2013,marc jacobs,0,KORS
 2013,hamilton michael kors,0,KORS
 2005,kr anderson,100,KR
-2005,incheon75,75,KR
+2005,incheon kr,75,KR
 2006,kr yahoo,100,KR
-2006,incheon90,90,KR
+2006,incheon kr,90,KR
 2006,kr anderson,55,KR
 2006,kr audio,35,KR
 2007,shelby kr,100,KR
@@ -36471,7 +36471,7 @@ Year,Top_Search,Score,Ticker
 2007,kr tuned,25,KR
 2007,kr buxey,10,KR
 2007,kr anderson,10,KR
-2007,incheon10,10,KR
+2007,incheon kr,10,KR
 2007,phproxy kr,0,KR
 2008,mustang kr,100,KR
 2008,shelby kr,100,KR
@@ -36484,7 +36484,7 @@ Year,Top_Search,Score,Ticker
 2008,mustang gt500 kr,25,KR
 2008,kr tuned,15,KR
 2008,knight rider,10,KR
-2008,incheon10,10,KR
+2008,incheon kr,10,KR
 2008,kr anderson,5,KR
 2008,kr stock,5,KR
 2008,country code kr,5,KR
@@ -36498,7 +36498,7 @@ Year,Top_Search,Score,Ticker
 2009,yahoo co kr,15,KR
 2009,google kr,15,KR
 2009,kr tools,10,KR
-2009,incheon10,10,KR
+2009,incheon kr,10,KR
 2009,kr anderson,10,KR
 2009,wedisk co kr,10,KR
 2009,incheon kr,5,KR
@@ -36520,7 +36520,7 @@ Year,Top_Search,Score,Ticker
 2010,shelby gt500 kr,30,KR
 2010,kr currency,25,KR
 2010,kr tools,25,KR
-2010,incheon25,25,KR
+2010,incheon kr,25,KR
 2010,kr anderson,25,KR
 2010,periodic table,20,KR
 2010,kr stock,15,KR
@@ -41278,47 +41278,47 @@ Year,Top_Search,Score,Ticker
 2004,detroit mi,30,MI
 2004,grand rapids,25,MI
 2004,grand rapids mi,25,MI
-2004,grand rapids20,20,MI
+2004,grand rapids mi,20,MI
 2004,mi state,20,MI
 2004,lansing mi,20,MI
 2004,ann arbor mi,15,MI
-2004,detroit15,15,MI
+2004,detroit mi,15,MI
 2004,mi map,15,MI
-2004,lansing15,15,MI
+2004,lansing mi,15,MI
 2004,oye mi canto,15,MI
-2004,ann arbor15,15,MI
+2004,ann arbor mi,15,MI
 2004,mi homes,10,MI
 2004,troy mi,10,MI
 2004,state of mi,10,MI
 2004,flint mi,10,MI
 2004,holland mi,10,MI
 2004,kalamazoo mi,10,MI
-2004,troy10,10,MI
+2004,troy mi,10,MI
 2004,jackson mi,10,MI
 2004,mi jobs,5,MI
 2004,dearborn mi,5,MI
-2004,kalamazoo5,5,MI
+2004,kalamazoo mi,5,MI
 2005,michigan,100,MI
 2005,detroit mi,35,MI
 2005,detroit,35,MI
 2005,grand rapids,30,MI
 2005,grand rapids mi,30,MI
-2005,grand rapids25,25,MI
+2005,grand rapids mi,25,MI
 2005,mi state,20,MI
 2005,lansing mi,20,MI
-2005,detroit20,20,MI
+2005,detroit mi,20,MI
 2005,ann arbor,20,MI
 2005,ann arbor mi,20,MI
-2005,ann arbor15,15,MI
-2005,lansing15,15,MI
+2005,ann arbor mi,15,MI
+2005,lansing mi,15,MI
 2005,mi homes,15,MI
 2005,troy mi,15,MI
 2005,kalamazoo mi,10,MI
 2005,rochester mi,10,MI
 2005,flint mi,10,MI
 2005,holland mi,10,MI
-2005,troy10,10,MI
-2005,kalamazoo10,10,MI
+2005,troy mi,10,MI
+2005,kalamazoo mi,10,MI
 2005,jackson mi,10,MI
 2005,mi jobs,10,MI
 2005,state of mi,10,MI
@@ -41328,21 +41328,21 @@ Year,Top_Search,Score,Ticker
 2006,detroit mi,35,MI
 2006,grand rapids,30,MI
 2006,grand rapids mi,30,MI
-2006,grand rapids30,30,MI
+2006,grand rapids mi,30,MI
 2006,lansing mi,25,MI
 2006,mi state,20,MI
-2006,detroit20,20,MI
+2006,detroit mi,20,MI
 2006,ann arbor mi,20,MI
-2006,lansing20,20,MI
-2006,ann arbor15,15,MI
+2006,lansing mi,20,MI
+2006,ann arbor mi,15,MI
 2006,troy mi,15,MI
 2006,mi homes,15,MI
 2006,kalamazoo mi,10,MI
 2006,rochester mi,10,MI
 2006,holland mi,10,MI
 2006,flint mi,10,MI
-2006,kalamazoo10,10,MI
-2006,troy10,10,MI
+2006,kalamazoo mi,10,MI
+2006,troy mi,10,MI
 2006,mi amor,10,MI
 2006,mi bank,10,MI
 2006,dearborn mi,10,MI
@@ -41351,13 +41351,13 @@ Year,Top_Search,Score,Ticker
 2007,michigan,100,MI
 2007,detroit mi,40,MI
 2007,grand rapids mi,35,MI
-2007,grand rapids30,30,MI
+2007,grand rapids mi,30,MI
 2007,lansing mi,25,MI
 2007,mi state,25,MI
-2007,detroit20,20,MI
+2007,detroit mi,20,MI
 2007,ann arbor mi,20,MI
-2007,ann arbor15,15,MI
-2007,lansing15,15,MI
+2007,ann arbor mi,15,MI
+2007,lansing mi,15,MI
 2007,mi map,15,MI
 2007,troy mi,15,MI
 2007,mi homes,15,MI
@@ -41368,8 +41368,8 @@ Year,Top_Search,Score,Ticker
 2007,mi amor,10,MI
 2007,jackson mi,10,MI
 2007,dearborn mi,10,MI
-2007,troy10,10,MI
-2007,kalamazoo10,10,MI
+2007,troy mi,10,MI
+2007,kalamazoo mi,10,MI
 2007,canton mi,10,MI
 2007,state of mi,10,MI
 2007,livonia mi,10,MI
@@ -41377,13 +41377,13 @@ Year,Top_Search,Score,Ticker
 2008,grand rapids mi,40,MI
 2008,detroit mi,40,MI
 2008,lansing mi,25,MI
-2008,grand rapids25,25,MI
+2008,grand rapids mi,25,MI
 2008,state mi,20,MI
 2008,ann arbor mi,20,MI
-2008,detroit20,20,MI
+2008,detroit mi,20,MI
 2008,mi amor,15,MI
-2008,lansing15,15,MI
-2008,ann arbor15,15,MI
+2008,lansing mi,15,MI
+2008,ann arbor mi,15,MI
 2008,troy mi,15,MI
 2008,kalamazoo mi,15,MI
 2008,holland mi,15,MI
@@ -41396,7 +41396,7 @@ Year,Top_Search,Score,Ticker
 2008,dearborn mi,10,MI
 2008,novi mi,10,MI
 2008,saginaw mi,10,MI
-2008,kalamazoo10,10,MI
+2008,kalamazoo mi,10,MI
 2008,state of mi,10,MI
 2009,michigan,100,MI
 2009,grand rapids mi,45,MI
@@ -41405,24 +41405,24 @@ Year,Top_Search,Score,Ticker
 2009,mi amor,25,MI
 2009,mi state,20,MI
 2009,ann arbor mi,20,MI
-2009,grand rapids20,20,MI
+2009,grand rapids mi,20,MI
 2009,mi pc,20,MI
 2009,mi musica,15,MI
 2009,mi weather,15,MI
 2009,troy mi,15,MI
 2009,kalamazoo mi,15,MI
 2009,holland mi,15,MI
-2009,detroit15,15,MI
+2009,detroit mi,15,MI
 2009,mi bank,15,MI
 2009,jackson mi,15,MI
 2009,mi homes,10,MI
 2009,mi corazon,10,MI
-2009,lansing10,10,MI
+2009,lansing mi,10,MI
 2009,canton mi,10,MI
 2009,livonia mi,10,MI
 2009,dearborn mi,10,MI
 2009,novi mi,10,MI
-2009,ann arbor10,10,MI
+2009,ann arbor mi,10,MI
 2010,michigan,100,MI
 2010,mi amor,45,MI
 2010,grand rapids mi,45,MI
@@ -41438,11 +41438,11 @@ Year,Top_Search,Score,Ticker
 2010,kalamazoo mi,15,MI
 2010,holland mi,15,MI
 2010,mi bank,15,MI
-2010,grand rapids15,15,MI
+2010,grand rapids mi,15,MI
 2010,mi homes,15,MI
 2010,mi casa,10,MI
 2010,alejate de mi,10,MI
-2010,detroit10,10,MI
+2010,detroit mi,10,MI
 2010,canton mi,10,MI
 2010,livonia mi,10,MI
 2010,camila,10,MI
@@ -41469,7 +41469,7 @@ Year,Top_Search,Score,Ticker
 2011,canton mi,10,MI
 2011,craigslist mi,10,MI
 2011,dearborn mi,10,MI
-2011,grand rapids10,10,MI
+2011,grand rapids mi,10,MI
 2011,livonia mi,10,MI
 2011,warren mi,10,MI
 2011,southfield mi,10,MI
@@ -42291,21 +42291,21 @@ Year,Top_Search,Score,Ticker
 2013,hog,10,MNST
 2004,missouri,100,MO
 2004,st. louis mo,65,MO
-2004,st. louis60,60,MO
+2004,st. louis mo,60,MO
 2004,kansas city mo,55,MO
 2004,springfield mo,55,MO
 2004,kansas city,50,MO
 2004,st louis,50,MO
 2004,st louis mo,50,MO
 2004,columbia mo,40,MO
-2004,kansas city40,40,MO
-2004,springfield35,35,MO
+2004,kansas city mo,40,MO
+2004,springfield mo,35,MO
 2004,state mo,25,MO
 2004,branson,25,MO
-2004,columbia25,25,MO
+2004,columbia mo,25,MO
 2004,branson mo,25,MO
-2004,branson20,20,MO
-2004,st louis15,15,MO
+2004,branson mo,20,MO
+2004,st louis mo,15,MO
 2004,st. charles mo,10,MO
 2004,keb mo,10,MO
 2004,joplin mo,10,MO
@@ -42317,22 +42317,22 @@ Year,Top_Search,Score,Ticker
 2005,missouri,100,MO
 2005,st. louis,65,MO
 2005,st. louis mo,65,MO
-2005,st. louis65,65,MO
+2005,st. louis mo,65,MO
 2005,springfield mo,60,MO
 2005,kansas city,60,MO
 2005,st louis,60,MO
 2005,st louis mo,60,MO
 2005,kansas city mo,55,MO
-2005,kansas city45,45,MO
+2005,kansas city mo,45,MO
 2005,columbia mo,40,MO
-2005,springfield40,40,MO
-2005,columbia30,30,MO
+2005,springfield mo,40,MO
+2005,columbia mo,30,MO
 2005,state mo,30,MO
 2005,branson,25,MO
 2005,branson mo,25,MO
 2005,mo map,20,MO
-2005,branson20,20,MO
-2005,st louis15,15,MO
+2005,branson mo,20,MO
+2005,st louis mo,15,MO
 2005,saint louis mo,10,MO
 2005,joplin mo,10,MO
 2005,independence mo,10,MO
@@ -42340,7 +42340,7 @@ Year,Top_Search,Score,Ticker
 2005,st charles mo,10,MO
 2005,chesterfield mo,10,MO
 2006,missouri,100,MO
-2006,st. louis70,70,MO
+2006,st. louis mo,70,MO
 2006,st. louis mo,70,MO
 2006,st. louis,70,MO
 2006,kansas city mo,70,MO
@@ -42348,16 +42348,16 @@ Year,Top_Search,Score,Ticker
 2006,springfield mo,65,MO
 2006,st louis mo,65,MO
 2006,st louis,65,MO
-2006,kansas city55,55,MO
+2006,kansas city mo,55,MO
 2006,columbia mo,50,MO
-2006,springfield45,45,MO
-2006,columbia35,35,MO
+2006,springfield mo,45,MO
+2006,columbia mo,35,MO
 2006,mo state,30,MO
 2006,branson,30,MO
 2006,branson mo,30,MO
 2006,mo map,25,MO
-2006,branson25,25,MO
-2006,st louis20,20,MO
+2006,branson mo,25,MO
+2006,st louis mo,20,MO
 2006,joplin mo,15,MO
 2006,saint louis mo,10,MO
 2006,st. charles mo,10,MO
@@ -42372,23 +42372,23 @@ Year,Top_Search,Score,Ticker
 2007,st. louis mo,75,MO
 2007,st louis mo,75,MO
 2007,st louis,75,MO
-2007,st. louis75,75,MO
+2007,st. louis mo,75,MO
 2007,columbia mo,55,MO
-2007,kansas city55,55,MO
-2007,springfield45,45,MO
+2007,kansas city mo,55,MO
+2007,springfield mo,45,MO
 2007,branson mo,35,MO
 2007,branson,35,MO
 2007,state mo,30,MO
-2007,columbia30,30,MO
-2007,st louis25,25,MO
-2007,branson20,20,MO
+2007,columbia mo,30,MO
+2007,st louis mo,25,MO
+2007,branson mo,20,MO
 2007,joplin mo,15,MO
 2007,independence mo,15,MO
 2007,st. charles mo,15,MO
 2007,st charles mo,10,MO
 2007,chesterfield mo,10,MO
 2007,jefferson city mo,10,MO
-2007,st. charles10,10,MO
+2007,st. charles mo,10,MO
 2008,springfield mo,100,MO
 2008,missouri,95,MO
 2008,kansas city,85,MO
@@ -42396,16 +42396,16 @@ Year,Top_Search,Score,Ticker
 2008,st louis mo,80,MO
 2008,st. louis mo,75,MO
 2008,st. louis,75,MO
-2008,st. louis65,65,MO
+2008,st. louis mo,65,MO
 2008,columbia mo,65,MO
-2008,kansas city50,50,MO
-2008,springfield45,45,MO
+2008,kansas city mo,50,MO
+2008,springfield mo,45,MO
 2008,branson mo,35,MO
 2008,branson,35,MO
-2008,columbia30,30,MO
+2008,columbia mo,30,MO
 2008,state mo,30,MO
-2008,st louis20,20,MO
-2008,branson15,15,MO
+2008,st louis mo,20,MO
+2008,branson mo,15,MO
 2008,joplin mo,15,MO
 2008,independence mo,15,MO
 2008,st charles mo,15,MO
@@ -42421,22 +42421,22 @@ Year,Top_Search,Score,Ticker
 2009,st louis mo,85,MO
 2009,st. louis mo,80,MO
 2009,columbia mo,70,MO
-2009,st. louis50,50,MO
+2009,st. louis mo,50,MO
 2009,branson,45,MO
 2009,branson mo,45,MO
-2009,kansas city35,35,MO
+2009,kansas city mo,35,MO
 2009,mo state,30,MO
-2009,springfield30,30,MO
-2009,columbia20,20,MO
+2009,springfield mo,30,MO
+2009,columbia mo,20,MO
 2009,joplin mo,20,MO
 2009,independence mo,20,MO
-2009,st louis15,15,MO
+2009,st louis mo,15,MO
 2009,jefferson city mo,15,MO
 2009,st charles mo,15,MO
 2009,st. charles mo,15,MO
 2009,chesterfield mo,15,MO
 2009,craigslist mo,15,MO
-2009,branson15,15,MO
+2009,branson mo,15,MO
 2009,liberty mo,10,MO
 2009,saint louis mo,10,MO
 2010,springfield mo,100,MO
@@ -42448,19 +42448,19 @@ Year,Top_Search,Score,Ticker
 2010,columbia mo,65,MO
 2010,branson,40,MO
 2010,branson mo,40,MO
-2010,st. louis30,30,MO
-2010,kansas city25,25,MO
+2010,st. louis mo,30,MO
+2010,kansas city mo,25,MO
 2010,mo state,25,MO
 2010,joplin mo,25,MO
 2010,independence mo,20,MO
-2010,springfield20,20,MO
+2010,springfield mo,20,MO
 2010,craigslist mo,15,MO
 2010,jefferson city mo,15,MO
 2010,movie mo,15,MO
 2010,st charles mo,15,MO
 2010,chesterfield mo,15,MO
-2010,st louis15,15,MO
-2010,columbia15,15,MO
+2010,st louis mo,15,MO
+2010,columbia mo,15,MO
 2010,st. charles mo,10,MO
 2010,liberty mo,10,MO
 2010,washington mo,10,MO
@@ -42478,17 +42478,17 @@ Year,Top_Search,Score,Ticker
 2011,branson mo,30,MO
 2011,craigslist mo,20,MO
 2011,mo state,15,MO
-2011,st. louis15,15,MO
-2011,kansas city15,15,MO
+2011,st. louis mo,15,MO
+2011,kansas city mo,15,MO
 2011,independence mo,15,MO
-2011,springfield10,10,MO
+2011,springfield mo,10,MO
 2011,movie mo,10,MO
 2011,jefferson city mo,10,MO
 2011,st charles mo,10,MO
 2011,chesterfield mo,10,MO
 2011,liberty mo,10,MO
-2011,st louis5,5,MO
-2011,columbia5,5,MO
+2011,st louis mo,5,MO
+2011,columbia mo,5,MO
 2012,springfield mo,100,MO
 2012,st louis mo,70,MO
 2012,columbia mo,60,MO
@@ -42502,15 +42502,15 @@ Year,Top_Search,Score,Ticker
 2012,joplin mo,20,MO
 2012,mo state,15,MO
 2012,independence mo,15,MO
-2012,st. louis15,15,MO
+2012,st. louis mo,15,MO
 2012,st charles mo,15,MO
 2012,jefferson city mo,10,MO
-2012,kansas city10,10,MO
+2012,kansas city mo,10,MO
 2012,movie mo,10,MO
 2012,chesterfield mo,10,MO
-2012,springfield10,10,MO
+2012,springfield mo,10,MO
 2012,st joseph mo,10,MO
-2012,st louis5,5,MO
+2012,st louis mo,5,MO
 2012,cape girardeau mo,5,MO
 2012,craigslist springfield mo,5,MO
 2012,blue springs mo,5,MO
@@ -42528,15 +42528,15 @@ Year,Top_Search,Score,Ticker
 2013,independence mo,15,MO
 2013,st charles mo,15,MO
 2013,jefferson city mo,15,MO
-2013,st. louis10,10,MO
-2013,kansas city10,10,MO
+2013,st. louis mo,10,MO
+2013,kansas city mo,10,MO
 2013,movie mo,10,MO
 2013,chesterfield mo,10,MO
 2013,liberty mo,10,MO
 2013,st joseph mo,10,MO
 2013,lees summit mo,10,MO
 2013,cape girardeau mo,5,MO
-2013,springfield5,5,MO
+2013,springfield mo,5,MO
 2013,washington mo,5,MO
 2013,craigslist springfield mo,5,MO
 2004,mos def,100,MOS
@@ -45191,84 +45191,84 @@ Year,Top_Search,Score,Ticker
 2004,omaha ne,100,NE
 2004,omaha,100,NE
 2004,lincoln ne,85,NE
-2004,omaha75,75,NE
-2004,lincoln60,60,NE
+2004,omaha ne,75,NE
+2004,lincoln ne,60,NE
 2004,ne state,20,NE
 2004,ne patriots,15,NE
 2004,je ne sais,10,NE
 2004,kearney ne,10,NE
 2004,suteki da ne,10,NE
 2004,grand island ne,5,NE
-2004,kearney5,5,NE
-2004,grand island5,5,NE
+2004,kearney ne,5,NE
+2004,grand island ne,5,NE
 2004,state of ne,5,NE
 2004,douglas county ne,5,NE
-2004,bellevue5,5,NE
+2004,bellevue ne,5,NE
 2004,columbus ne,5,NE
-2004,hastings5,5,NE
-2004,norfolk5,5,NE
-2004,north platte5,5,NE
+2004,hastings ne,5,NE
+2004,norfolk ne,5,NE
 2004,north platte ne,5,NE
-2004,columbus5,5,NE
-2004,fremont5,5,NE
+2004,north platte ne,5,NE
+2004,columbus ne,5,NE
+2004,fremont ne,5,NE
 2004,lincoln journal star,0,NE
 2004,sidney ne,0,NE
 2005,omaha,100,NE
 2005,omaha ne,100,NE
 2005,lincoln ne,75,NE
-2005,omaha75,75,NE
+2005,omaha ne,75,NE
 2005,nebraska,55,NE
-2005,lincoln55,55,NE
+2005,lincoln ne,55,NE
 2005,state ne,15,NE
 2005,lincoln nebraska,10,NE
 2005,ne patriots,10,NE
-2005,bellevue10,10,NE
+2005,bellevue ne,10,NE
 2005,ne yo,5,NE
 2005,kearney ne,5,NE
 2005,grand island ne,5,NE
 2005,je ne sais,5,NE
 2005,norfolk ne,5,NE
-2005,kearney5,5,NE
+2005,kearney ne,5,NE
 2005,douglas county ne,5,NE
 2005,fremont ne,5,NE
-2005,grand island5,5,NE
+2005,grand island ne,5,NE
 2005,hastings ne,5,NE
 2005,state of ne,5,NE
 2005,columbus ne,5,NE
-2005,norfolk5,5,NE
-2005,hastings5,5,NE
+2005,norfolk ne,5,NE
+2005,hastings ne,5,NE
 2005,ne yo lyrics,5,NE
 2006,omaha ne,100,NE
 2006,omaha,100,NE
 2006,lincoln ne,75,NE
-2006,omaha70,70,NE
-2006,lincoln50,50,NE
+2006,omaha ne,70,NE
+2006,lincoln ne,50,NE
 2006,nebraska,50,NE
 2006,ne yo,25,NE
 2006,ne state,15,NE
 2006,bellevue ne,15,NE
 2006,omaha nebraska,10,NE
 2006,lincoln nebraska,10,NE
-2006,bellevue10,10,NE
+2006,bellevue ne,10,NE
 2006,ne yo lyrics,10,NE
 2006,ne patriots,10,NE
 2006,kearney ne,10,NE
 2006,grand island ne,5,NE
 2006,je ne sais,5,NE
-2006,kearney5,5,NE
+2006,kearney ne,5,NE
 2006,norfolk ne,5,NE
 2006,fremont ne,5,NE
 2006,so sick,5,NE
 2006,douglas county ne,5,NE
 2006,hastings ne,5,NE
-2006,grand island5,5,NE
+2006,grand island ne,5,NE
 2006,columbus ne,5,NE
 2007,omaha ne,100,NE
 2007,omaha,100,NE
-2007,omaha65,65,NE
+2007,omaha ne,65,NE
 2007,lincoln ne,60,NE
 2007,nebraska,40,NE
-2007,lincoln40,40,NE
+2007,lincoln ne,40,NE
 2007,ne yo,15,NE
 2007,ne state,15,NE
 2007,bellevue ne,15,NE
@@ -45276,24 +45276,24 @@ Year,Top_Search,Score,Ticker
 2007,ne weather,10,NE
 2007,omaha nebraska,10,NE
 2007,kearney ne,5,NE
-2007,bellevue5,5,NE
+2007,bellevue ne,5,NE
 2007,lincoln nebraska,5,NE
 2007,grand island ne,5,NE
 2007,ne yo lyrics,5,NE
 2007,fremont ne,5,NE
 2007,norfolk ne,5,NE
-2007,kearney5,5,NE
+2007,kearney ne,5,NE
 2007,je ne sais,5,NE
 2007,douglas county ne,5,NE
-2007,grand island5,5,NE
+2007,grand island ne,5,NE
 2007,hastings ne,5,NE
 2007,papillion ne,5,NE
 2008,omaha ne,100,NE
 2008,omaha,95,NE
 2008,lincoln ne,55,NE
-2008,omaha55,55,NE
+2008,omaha ne,55,NE
 2008,nebraska,30,NE
-2008,lincoln30,30,NE
+2008,lincoln ne,30,NE
 2008,ne yo,20,NE
 2008,state ne,10,NE
 2008,bellevue ne,10,NE
@@ -45302,24 +45302,24 @@ Year,Top_Search,Score,Ticker
 2008,kearney ne,5,NE
 2008,ne patriots,5,NE
 2008,grand island ne,5,NE
-2008,bellevue5,5,NE
+2008,bellevue ne,5,NE
 2008,norfolk ne,5,NE
 2008,fremont ne,5,NE
 2008,hastings ne,5,NE
-2008,kearney5,5,NE
+2008,kearney ne,5,NE
 2008,je ne sais,5,NE
 2008,columbus ne,5,NE
-2008,grand island5,5,NE
+2008,grand island ne,5,NE
 2008,douglas county ne,5,NE
 2008,neyo,5,NE
 2008,papillion ne,5,NE
 2009,omaha,100,NE
 2009,omaha ne,100,NE
 2009,lincoln ne,60,NE
-2009,omaha40,40,NE
+2009,omaha ne,40,NE
 2009,nebraska,30,NE
 2009,ne yo,30,NE
-2009,lincoln20,20,NE
+2009,lincoln ne,20,NE
 2009,ne yo lyrics,15,NE
 2009,bellevue ne,10,NE
 2009,state ne,10,NE
@@ -45331,7 +45331,7 @@ Year,Top_Search,Score,Ticker
 2009,york ne,5,NE
 2009,norfolk ne,5,NE
 2009,fremont ne,5,NE
-2009,bellevue5,5,NE
+2009,bellevue ne,5,NE
 2009,ne patriots,5,NE
 2009,craigslist ne,5,NE
 2009,hastings ne,5,NE
@@ -45342,9 +45342,9 @@ Year,Top_Search,Score,Ticker
 2010,omaha ne,100,NE
 2010,lincoln ne,70,NE
 2010,nebraska,30,NE
-2010,omaha25,25,NE
+2010,omaha ne,25,NE
 2010,ne yo,25,NE
-2010,lincoln15,15,NE
+2010,lincoln ne,15,NE
 2010,bellevue ne,10,NE
 2010,ne state,10,NE
 2010,grand island ne,10,NE
@@ -45358,7 +45358,7 @@ Year,Top_Search,Score,Ticker
 2010,ne patriots,5,NE
 2010,hastings ne,5,NE
 2010,columbus ne,5,NE
-2010,bellevue5,5,NE
+2010,bellevue ne,5,NE
 2010,papillion ne,5,NE
 2010,north platte ne,5,NE
 2010,scottsbluff ne,5,NE
@@ -45367,9 +45367,9 @@ Year,Top_Search,Score,Ticker
 2011,lincoln ne,100,NE
 2011,omaha ne,100,NE
 2011,nebraska,35,NE
-2011,omaha20,20,NE
+2011,omaha ne,20,NE
 2011,ne yo,15,NE
-2011,lincoln15,15,NE
+2011,lincoln ne,15,NE
 2011,bellevue ne,10,NE
 2011,grand island ne,10,NE
 2011,kearney ne,10,NE
@@ -45393,9 +45393,9 @@ Year,Top_Search,Score,Ticker
 2012,omaha,95,NE
 2012,nebraska,30,NE
 2012,ne yo,20,NE
-2012,omaha15,15,NE
+2012,omaha ne,15,NE
 2012,bellevue ne,10,NE
-2012,lincoln10,10,NE
+2012,lincoln ne,10,NE
 2012,kearney ne,10,NE
 2012,grand island ne,10,NE
 2012,ne state,10,NE
@@ -45418,11 +45418,11 @@ Year,Top_Search,Score,Ticker
 2013,omaha,95,NE
 2013,nebraska,30,NE
 2013,ne yo,20,NE
-2013,omaha15,15,NE
+2013,omaha ne,15,NE
 2013,bellevue ne,10,NE
 2013,grand island ne,10,NE
 2013,kearney ne,10,NE
-2013,lincoln10,10,NE
+2013,lincoln ne,10,NE
 2013,craigslist ne,10,NE
 2013,state ne,10,NE
 2013,omaha nebraska,5,NE
@@ -45882,7 +45882,7 @@ Year,Top_Search,Score,Ticker
 2008,ni hao ma,10,NI
 2008,bbc ni,10,NI
 2008,ni daq,10,NI
-2008,ni hao5,5,NI
+2008,ni hao kai-lan,5,NI
 2008,ni jobs,5,NI
 2008,ni nachle,5,NI
 2008,nickelodeon,5,NI
@@ -66707,99 +66707,99 @@ Year,Top_Search,Score,Ticker
 2004,cheyenne wy,55,WY
 2004,jackson hole,40,WY
 2004,jackson hole wy,40,WY
-2004,jackson hole35,35,WY
-2004,jackson35,35,WY
+2004,jackson hole wy,35,WY
+2004,jackson wy,35,WY
 2004,casper wy,35,WY
 2004,laramie wy,30,WY
-2004,cheyenne30,30,WY
-2004,casper25,25,WY
+2004,cheyenne wy,30,WY
+2004,casper wy,25,WY
 2004,cody wy,20,WY
 2004,sheridan wy,20,WY
-2004,laramie20,20,WY
-2004,cody15,15,WY
+2004,laramie wy,20,WY
+2004,cody wy,15,WY
 2004,gillette wy,15,WY
-2004,sheridan10,10,WY
-2004,gillette10,10,WY
+2004,sheridan wy,10,WY
+2004,gillette wy,10,WY
 2004,rock springs wy,10,WY
 2004,buffalo wy,10,WY
 2004,lander wy,10,WY
-2004,rock springs10,10,WY
-2004,riverton5,5,WY
-2004,pinedale5,5,WY
-2004,lander5,5,WY
-2004,saratoga5,5,WY
+2004,rock springs wy,10,WY
+2004,riverton wy,5,WY
+2004,pinedale wy,5,WY
+2004,lander wy,5,WY
+2004,saratoga wy,5,WY
 2005,jackson wy,100,WY
 2005,wyoming,75,WY
 2005,cheyenne wy,45,WY
 2005,jackson hole wy,35,WY
-2005,cheyenne35,35,WY
+2005,cheyenne wy,35,WY
 2005,jackson hole,35,WY
 2005,casper wy,35,WY
-2005,jackson hole30,30,WY
-2005,jackson30,30,WY
+2005,jackson hole wy,30,WY
+2005,jackson wy,30,WY
 2005,laramie wy,25,WY
-2005,casper20,20,WY
+2005,casper wy,20,WY
 2005,cody wy,20,WY
-2005,laramie20,20,WY
+2005,laramie wy,20,WY
 2005,sheridan wy,20,WY
 2005,yellowstone,20,WY
-2005,cody15,15,WY
-2005,gillette15,15,WY
+2005,cody wy,15,WY
 2005,gillette wy,15,WY
-2005,sheridan10,10,WY
-2005,rock springs10,10,WY
+2005,gillette wy,15,WY
+2005,sheridan wy,10,WY
+2005,rock springs wy,10,WY
 2005,rock springs wy,10,WY
 2005,buffalo wy,10,WY
 2005,lander wy,5,WY
 2005,evanston wy,5,WY
-2005,lander5,5,WY
+2005,lander wy,5,WY
 2006,jackson wy,100,WY
 2006,wyoming,80,WY
 2006,cheyenne wy,55,WY
 2006,casper wy,45,WY
 2006,jackson hole,40,WY
 2006,jackson hole wy,40,WY
-2006,cheyenne35,35,WY
+2006,cheyenne wy,35,WY
 2006,laramie wy,35,WY
-2006,jackson30,30,WY
-2006,jackson hole30,30,WY
-2006,casper30,30,WY
-2006,laramie25,25,WY
+2006,jackson wy,30,WY
+2006,jackson hole wy,30,WY
+2006,casper wy,30,WY
+2006,laramie wy,25,WY
 2006,cody wy,20,WY
 2006,gillette wy,20,WY
 2006,sheridan wy,15,WY
 2006,yellowstone,15,WY
-2006,gillette15,15,WY
-2006,cody15,15,WY
-2006,sheridan10,10,WY
+2006,gillette wy,15,WY
+2006,cody wy,15,WY
+2006,sheridan wy,10,WY
 2006,rock springs wy,10,WY
-2006,rock springs10,10,WY
+2006,rock springs wy,10,WY
 2006,buffalo wy,10,WY
 2006,riverton wy,10,WY
 2006,evanston wy,10,WY
-2006,riverton5,5,WY
+2006,riverton wy,5,WY
 2007,jackson wy,100,WY
 2007,wyoming,85,WY
 2007,cheyenne wy,55,WY
 2007,cheyenne,55,WY
 2007,casper wy,50,WY
-2007,cheyenne40,40,WY
+2007,cheyenne wy,40,WY
 2007,jackson hole wy,40,WY
 2007,jackson hole,40,WY
-2007,jackson35,35,WY
+2007,jackson wy,35,WY
 2007,laramie wy,30,WY
-2007,casper25,25,WY
-2007,jackson hole25,25,WY
+2007,casper wy,25,WY
+2007,jackson hole wy,25,WY
 2007,sheridan wy,25,WY
-2007,laramie25,25,WY
+2007,laramie wy,25,WY
 2007,gillette wy,25,WY
 2007,cody wy,25,WY
-2007,gillette15,15,WY
+2007,gillette wy,15,WY
 2007,yellowstone,15,WY
-2007,cody15,15,WY
+2007,cody wy,15,WY
 2007,rock springs wy,15,WY
-2007,sheridan15,15,WY
-2007,rock springs10,10,WY
+2007,sheridan wy,15,WY
+2007,rock springs wy,10,WY
 2007,buffalo wy,10,WY
 2007,evanston wy,10,WY
 2007,riverton wy,10,WY
@@ -66810,22 +66810,22 @@ Year,Top_Search,Score,Ticker
 2008,casper wy,55,WY
 2008,jackson hole wy,40,WY
 2008,jackson hole,40,WY
-2008,cheyenne40,40,WY
+2008,cheyenne wy,40,WY
 2008,laramie wy,35,WY
 2008,gillette,30,WY
 2008,gillette wy,30,WY
-2008,casper30,30,WY
-2008,jackson25,25,WY
+2008,casper wy,30,WY
+2008,jackson wy,25,WY
 2008,sheridan wy,25,WY
 2008,cody wy,25,WY
-2008,laramie20,20,WY
+2008,laramie wy,20,WY
 2008,wy map,20,WY
-2008,jackson hole20,20,WY
+2008,jackson hole wy,20,WY
 2008,rock springs wy,15,WY
-2008,gillette15,15,WY
+2008,gillette wy,15,WY
 2008,yellowstone,15,WY
-2008,sheridan15,15,WY
-2008,cody15,15,WY
+2008,sheridan wy,15,WY
+2008,cody wy,15,WY
 2008,big wy,10,WY
 2008,riverton wy,10,WY
 2009,wyoming,100,WY
@@ -66837,22 +66837,22 @@ Year,Top_Search,Score,Ticker
 2009,gillette wy,40,WY
 2009,jackson hole wy,35,WY
 2009,jackson hole,35,WY
-2009,cheyenne35,35,WY
+2009,cheyenne wy,35,WY
 2009,sheridan wy,30,WY
 2009,cody wy,25,WY
-2009,casper25,25,WY
-2009,jackson25,25,WY
+2009,casper wy,25,WY
+2009,jackson wy,25,WY
 2009,rock springs wy,20,WY
 2009,wy map,20,WY
 2009,wy state,20,WY
-2009,laramie20,20,WY
+2009,laramie wy,20,WY
 2009,yellowstone,15,WY
-2009,gillette15,15,WY
+2009,gillette wy,15,WY
 2009,riverton wy,15,WY
 2009,cheyenne wyoming,15,WY
-2009,jackson hole10,10,WY
+2009,jackson hole wy,10,WY
 2009,jackson wyoming,10,WY
-2009,sheridan10,10,WY
+2009,sheridan wy,10,WY
 2010,wyoming,100,WY
 2010,jackson wy,90,WY
 2010,cheyenne wy,80,WY
@@ -66866,15 +66866,15 @@ Year,Top_Search,Score,Ticker
 2010,sheridan wy,30,WY
 2010,cody wy,30,WY
 2010,rock springs wy,25,WY
-2010,cheyenne25,25,WY
+2010,cheyenne wy,25,WY
 2010,wy map,20,WY
-2010,jackson20,20,WY
-2010,casper20,20,WY
+2010,jackson wy,20,WY
+2010,casper wy,20,WY
 2010,wy state,20,WY
 2010,yellowstone,15,WY
 2010,riverton wy,15,WY
 2010,buffalo wy,15,WY
-2010,laramie15,15,WY
+2010,laramie wy,15,WY
 2010,jackson wyoming,10,WY
 2010,cheyenne wyoming,10,WY
 2010,evanston wy,10,WY
@@ -66896,13 +66896,13 @@ Year,Top_Search,Score,Ticker
 2011,sheridan,30,WY
 2011,cody wy,30,WY
 2011,rock springs wy,25,WY
-2011,cheyenne20,20,WY
+2011,cheyenne wy,20,WY
 2011,wy map,15,WY
-2011,casper15,15,WY
+2011,casper wy,15,WY
 2011,wy state,15,WY
 2011,cheyenne wyoming,15,WY
 2011,riverton wy,15,WY
-2011,jackson15,15,WY
+2011,jackson wy,15,WY
 2012,cheyenne wy,100,WY
 2012,cheyenne,100,WY
 2012,wyoming,90,WY
@@ -66917,17 +66917,17 @@ Year,Top_Search,Score,Ticker
 2012,cody wy,25,WY
 2012,rock springs wy,25,WY
 2012,riverton wy,15,WY
-2012,cheyenne15,15,WY
+2012,cheyenne wy,15,WY
 2012,wy map,15,WY
 2012,cheyenne wyoming,15,WY
 2012,casper wyoming,15,WY
 2012,wy state,15,WY
-2012,casper15,15,WY
+2012,casper wy,15,WY
 2012,evanston wy,10,WY
 2012,rawlins wy,10,WY
 2012,buffalo wy,10,WY
 2012,jackson wyoming,10,WY
-2012,jackson10,10,WY
+2012,jackson wy,10,WY
 2013,cheyenne wy,100,WY
 2013,cheyenne,100,WY
 2013,wyoming,90,WY
@@ -66944,14 +66944,14 @@ Year,Top_Search,Score,Ticker
 2013,riverton wy,15,WY
 2013,casper wyoming,15,WY
 2013,cheyenne wyoming,15,WY
-2013,cheyenne10,10,WY
+2013,cheyenne wy,10,WY
 2013,wy state,10,WY
 2013,rawlins wy,10,WY
 2013,buffalo wy,10,WY
 2013,evanston wy,10,WY
 2013,jackson wyoming,10,WY
 2013,wy craigslist,10,WY
-2013,casper10,10,WY
+2013,casper wy,10,WY
 2013,douglas wy,10,WY
 2004,wye river,100,WYE
 2004,hay on wye,30,WYE
