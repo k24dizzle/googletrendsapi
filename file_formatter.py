@@ -4,6 +4,14 @@ stock_data = stocks.read().split('\n')
 current_dir = os.path.dirname(__file__)
 print current_dir
 
+def get_rid_of_commas(data):
+    other_temp = ''
+    for i in xrange(0, len(data) - 1):
+        other_temp += data[i]
+        data[0] = other_temp
+        data = [data[0], data[-1]]
+    return data
+
 with open('New_Data/Top_Data.csv', "w") as outfile:
     outfile.write("Year,Top_Search,Score,Ticker")
     outfile.write('\n')
@@ -17,7 +25,10 @@ with open('New_Data/Top_Data.csv', "w") as outfile:
                     for line in year_data:
                         if line != '':
                             outfile.write("%s," % (year))
-                            outfile.write(line)
+                            data = line.split(',')
+                            if len(data) > 2:
+                                data = get_rid_of_commas(data)
+                            outfile.write(','.join(data))
                             outfile.write(",%s" % (stock))
                             outfile.write('\n')
             except IOError:
@@ -43,12 +54,7 @@ with open('New_Data/Rising_Data.csv', "w") as outfile:
                                     data[-2] = temp
                                     del data[-1]
                                     if len(data) > 2:
-                                        other_temp = ''
-                                        for i in xrange(0, len(data) - 1):
-                                            other_temp += data[i]
-                                        data[0] = other_temp
-                                        data = [data[0], data[-1]]
-
+                                        data = get_rid_of_commas(data)
                             outfile.write(','.join(data))
                             outfile.write(",%s" % (stock))
                             outfile.write('\n')
